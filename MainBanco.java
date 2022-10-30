@@ -21,4 +21,4 @@ public class Main {
     inversion1.mostrarDatosInversion();
   }
 
-} 
+}
